@@ -5,6 +5,6 @@ print "hello Ali"
 print "hello2"
 
 def printmyname():
-    print "foo"
+    print "foo2"
 
 
